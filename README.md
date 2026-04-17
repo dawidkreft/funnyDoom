@@ -114,7 +114,7 @@ funnydoom/
         └── soundmanager.js  # music + SFX (Web Audio API)
 ```
 
----
+---  
 
 ## 📖 Specification
 
